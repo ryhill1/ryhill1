@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation, coding and business intelligence
 - 🌱 I’m currently learning to be a data analyst through an Apprenticeship
 - 💞️ I’m looking to collaborate on Chatbot creation and automation
-- 📫 How to reach me linkedin www.linkedin.com/in/ryan-hill-b74943212/
+- 📫 linkedin www.linkedin.com/in/ryan-hill-b74943212/
 - 😄 Pronouns: he/him
 
 
