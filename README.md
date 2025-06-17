@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to be a data analyst through an Apprenticeship
 - 💞️ I’m looking to collaborate on automation and AI Development
 - 📫 linkedin: www.linkedin.com/in/ryan-hill-b74943212/
-- 😄 Pronouns: he/him
 
 
 <!---
